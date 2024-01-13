@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "/home/nico/Documents/gits/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "WS2812B")(type "KiCad")(uri "/home/nico/Documents/gits/KiCad-RP-Pico/WS2812B.pretty")(options "")(descr ""))
+  (lib (name "Connector -USB-C")(type "KiCad")(uri "/home/nico/Documents/gits/Connector -USB-C.pretty")(options "")(descr ""))
+)

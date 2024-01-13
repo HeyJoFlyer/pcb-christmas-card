@@ -12,7 +12,7 @@ You can send this card to practically anyone.
 - 32 Alternating flashing leds
 - Customizable text (removed from my image)
 
-![pcb image]("https://github.com/HeyJoFlyer/pcb-christmas-card/blob/main/christmas PCB.avif?raw=true")
+![pcb image](https://github.com/HeyJoFlyer/pcb-christmas-card/blob/main/christmas%20PCB.avif?raw=true)
 
 ## Getting started
 
